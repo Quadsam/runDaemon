@@ -1,4 +1,4 @@
-CFLAGS	=	-Wall -static
+CFLAGS	=	-Wall
 
 all: clean build
 
